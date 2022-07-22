@@ -2,12 +2,16 @@
 ---
 # List of open source documentation for contribution
   - [Beginner](#beginner)
+  - [Intermediate](#intermediate)
   - [Advanced](#advanced)
   - [Unsorted](#unsorted)
     
 ## Beginner
 * [Python](https://devguide.python.org/documentation)
 * [AWS](https://github.com/awsdocs)
+
+## Intermediate
+* [GitHub](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
 
 ## Advanced
 #### _Knowledge of tools and/or understanding the concepts_
