@@ -9,9 +9,12 @@
 ## Beginner
 * [Python](https://devguide.python.org/documentation)
 * [AWS](https://github.com/awsdocs)
+* [Fedora Release notes](https://docs.fedoraproject.org/en-US/fedora-docs/contributing/contributing-to-release-notes/)
 
 ## Intermediate
 * [GitHub](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
+* [Fedora](https://docs.fedoraproject.org/en-US/fedora-docs/contributing/prerequisites/)
+* [CentOS](https://github.com/CentOS/docs-contributors-guide)
 
 ## Advanced
 #### _Knowledge of tools and/or understanding the concepts_
